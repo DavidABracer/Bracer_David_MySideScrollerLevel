@@ -686,3 +686,75 @@ System memory in use after: 110.1 MB.
 Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 2837.
 Total: 2.373300 ms (FindLiveObjects: 0.229700 ms CreateObjectMapping: 0.107300 ms MarkObjects: 1.916600 ms  DeleteObjects: 0.118900 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010762 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.438 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2245 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 110.1 MB.
+System memory in use after: 110.2 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 2841.
+Total: 2.948300 ms (FindLiveObjects: 0.299600 ms CreateObjectMapping: 0.133800 ms MarkObjects: 2.179100 ms  DeleteObjects: 0.334600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2732.429283 seconds.
+  path: Assets/2DGamekit/Prefabs/Utilities/Localizer.prefab
+  artifactKey: Guid(c4265b110bb2c484e9f7130b2e605218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Utilities/Localizer.prefab using Guid(c4265b110bb2c484e9f7130b2e605218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c02e5c4201443e82b4c81909687134f4') in 0.042432 seconds
+  Import took 0.046872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/2DGamekit/Prefabs/Utilities/ObjectPositionResetter.prefab
+  artifactKey: Guid(e6a7390a68a87cc44bf2d5eae1fc46d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Utilities/ObjectPositionResetter.prefab using Guid(e6a7390a68a87cc44bf2d5eae1fc46d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eec7e83a7da5a01f4b0e68481ff081d') in 0.008983 seconds
+  Import took 0.013075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/2DGamekit/Prefabs/Utilities/SpitterSpitPool.prefab
+  artifactKey: Guid(668940f422f1b1c458f0b6b36ba7de9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Utilities/SpitterSpitPool.prefab using Guid(668940f422f1b1c458f0b6b36ba7de9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c80adfaff070f8670f9319f94caf671e') in 0.031357 seconds
+  Import took 0.036342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/2DGamekit/Prefabs/Utilities/PhysicsHelper.prefab
+  artifactKey: Guid(5e97833b7c43abc418eeee08d291ea3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Utilities/PhysicsHelper.prefab using Guid(5e97833b7c43abc418eeee08d291ea3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c34f47ecc55db88d3ab8831ad1ba855') in 0.011169 seconds
+  Import took 0.015597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/2DGamekit/Prefabs/Utilities/SplashSoundPlayer.prefab
+  artifactKey: Guid(a7584c3225fcd2a4191583462325ef39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Utilities/SplashSoundPlayer.prefab using Guid(a7584c3225fcd2a4191583462325ef39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98d5e0b2d95db760c426a68c371f1fe8') in 0.012535 seconds
+  Import took 0.016889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/2DGamekit/Prefabs/Utilities/VFXController.prefab
+  artifactKey: Guid(db30b6a69797544c8a2f8777aa55668f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Utilities/VFXController.prefab using Guid(db30b6a69797544c8a2f8777aa55668f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53bf56cad6fb446189e592433f8848fb') in 0.122241 seconds
+  Import took 0.128002 seconds .
+
