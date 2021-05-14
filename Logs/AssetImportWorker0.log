@@ -481,3 +481,58 @@ System memory in use after: 66.1 MB.
 Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2851.
 Total: 3.685500 ms (FindLiveObjects: 0.676300 ms CreateObjectMapping: 0.234700 ms MarkObjects: 2.609500 ms  DeleteObjects: 0.162700 ms)
 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 7.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2851.
+Total: 2.795200 ms (FindLiveObjects: 0.255000 ms CreateObjectMapping: 0.121900 ms MarkObjects: 2.292700 ms  DeleteObjects: 0.123800 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 7.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2851.
+Total: 2.786000 ms (FindLiveObjects: 0.272700 ms CreateObjectMapping: 0.112200 ms MarkObjects: 2.263000 ms  DeleteObjects: 0.136800 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 7.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2851.
+Total: 3.247200 ms (FindLiveObjects: 0.369100 ms CreateObjectMapping: 0.136800 ms MarkObjects: 2.608000 ms  DeleteObjects: 0.131900 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 7.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2851.
+Total: 3.930100 ms (FindLiveObjects: 0.488500 ms CreateObjectMapping: 0.200300 ms MarkObjects: 3.059500 ms  DeleteObjects: 0.180100 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 7.10 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2851.
+Total: 2.482200 ms (FindLiveObjects: 0.373600 ms CreateObjectMapping: 0.161400 ms MarkObjects: 1.827700 ms  DeleteObjects: 0.116900 ms)
+
